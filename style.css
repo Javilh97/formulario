@@ -94,6 +94,7 @@ body{
     padding: .8em 0;
     border: none;
     border-radius:  .5em;
+    cursor: pointer;
 }
 
 .form__line{
